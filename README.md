@@ -1,4 +1,6 @@
-### 🚀 Projects
+### <p align="center">
+  <img src="radio-cat-logo.gif" alt="coNFTee Logo" width="120" height="120" /> Projects
+</p> 
 
 🖼️ [**coNFTee**](https://conftee.xyz) · Real Time · Largest Unstoppable Domains holding · Curated NFT Collections  
 📑 [**Puzzles Club**](https://puzzlesclub.xyz) · New NFT game  
