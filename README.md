@@ -1,5 +1,5 @@
 ### <p align="center">
-  <img src="radio-cat-logo.gif" alt="coNFTee Logo" width="120" height="120" /> Projects
+  <img src="radio-cat-logo.gif" alt="coNFTee Logo" width="120" height="120" />
 </p> 
 
 🖼️ [**coNFTee**](https://conftee.xyz) · Real Time · Largest Unstoppable Domains holding · Curated NFT Collections  
