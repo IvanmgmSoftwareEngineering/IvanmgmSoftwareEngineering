@@ -7,6 +7,4 @@
 🛡️ [**PokeBit**](https://pokebit.xyz) ·          Crypto wallet generator  
 🛠️ [**PokeMetaX**](https://pokemetax.xyz) ·      First autocustody wallet secure available 24/7 anywhere in the world and a new method for scheduled transfers  
 
-* Everything in several languages
-
 ---
