@@ -2,7 +2,7 @@
   <img src="radio-cat-logo.gif" alt="coNFTee Logo" width="120" height="120" />
 </p> 
 
-🖼️ [**coNFTee**](https://conftee.xyz) ·          Real Time · Largest Unstoppable Domains holding · Curated NFT Collections · Mint NFT Collections
+🖼️ [**coNFTee**](https://conftee.xyz) ·          Real Time · Largest UDs holding · Curated NFT Collections · Mint NFT Collections
 
 📑 [**Puzzles Club**](https://puzzlesclub.xyz) · NFT game  
 🛡️ [**PokeBit**](https://pokebit.xyz) ·          Crypto wallet generator  
