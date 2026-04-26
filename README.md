@@ -5,6 +5,5 @@
 🖼️ [**𝓬𝓸𝓝𝓕𝓣𝓮𝓮**](https://conftee.io) ·                  Welcome to Web3 - Real Time OpenSea&Radio · Largest UD&NFT holding  · Create your own NFT Collection FREE    
 🛡️ [**ℙ𝕠𝕜𝕖𝕄𝕖𝕥𝕒𝕏.𝕚𝕠**](https://pokemetax.io) ·          Non-Custodial Wallet. 0% platform fees.   
 📑 [**🅿🆄🆉🆉🅻🅴🆂 🅲🅻🆄🅱**](https://puzzlesclub.xyz) ·  NFT game  
-🛡️ [**𝐏𝐨𝐤𝐞𝐁𝐢𝐭**](https://pokebit.xyz) ·                   Crypto wallet generator    
 
 ---
