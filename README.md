@@ -1,5 +1,5 @@
 ### <p align="center">
-  <img src="radio-cat-logo-1.gif" alt="coNFTee Logo" width="120" height="120" />
+  <img src="radio-cat-logo-1.gif" alt="coNFTee Logo" width="80" height="80" />
 </p> 
 
 🖼️ [**𝓬𝓸𝓝𝓕𝓣𝓮𝓮**](https://conftee.io) ·                  Welcome to Web3 - Real Time OpenSea&Radio · Largest UD&NFT holding  · Create your own NFT Collection FREE    
